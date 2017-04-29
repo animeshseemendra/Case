@@ -1,6 +1,6 @@
 Case
       -Virtual Assistant
-      
+-Maros which can be combined with speech recognisation to automate your PC.      
 Programming languages-
   * C++
       * JavaScript
